@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: DisableHead
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: root
+    m_Weight: 1
+  - m_Path: root/baseBone
+    m_Weight: 1
+  - m_Path: root/baseBone/base
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone002
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone002/Bone001
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone002/Bone001/Bone002
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone002/Bone001/Bone002/Bone003
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone002/Bone001/Bone002/Bone003/Bone004
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone002/Bone001/Bone002/Bone003/Dummy003
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone002/Bone001/Bone002/Bone003/Dummy003/Object009
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone002/Bone001/Bone002/Bone003/Dummy003/Object009/weel1
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone002/Bone001/Bone002/Bone003/Dummy003/Object009/weel1/Object010
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone002/Bone001/Bone002/Object011
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone002/Bone001/Object012
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone003
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone003/Bone009
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone003/Bone009/Bone010
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone003/Bone009/Bone010/Bone011
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone003/Bone009/Bone010/Bone011/Bone012
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone003/Bone009/Bone010/Bone011/Dummy002
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone003/Bone009/Bone010/Bone011/Dummy002/Object001
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone003/Bone009/Bone010/Bone011/Dummy002/Object001/weel003
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone003/Bone009/Bone010/Bone011/Dummy002/Object001/weel003/Object002
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone003/Bone009/Bone010/Object003
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone003/Bone009/Object004
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone004
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone004/Bone013
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone004/Bone013/Bone014
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone004/Bone013/Bone014/Bone015
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone004/Bone013/Bone014/Bone015/Bone016
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone004/Bone013/Bone014/Bone015/Dummy001
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone004/Bone013/Bone014/Bone015/Dummy001/Object005
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone004/Bone013/Bone014/Bone015/Dummy001/Object005/weel002
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone004/Bone013/Bone014/Bone015/Dummy001/Object005/weel002/Object006
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone004/Bone013/Bone014/Object007
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone004/Bone013/Object008
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone005
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone005/Bone005
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone005/Bone005/Bone006
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone005/Bone005/Bone006/Bone007
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone005/Bone005/Bone006/Bone007/Bone008
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone005/Bone005/Bone006/Bone007/Dummy004
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone005/Bone005/Bone006/Bone007/Dummy004/Object013
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone005/Bone005/Bone006/Bone007/Dummy004/Object013/weel004
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone005/Bone005/Bone006/Bone007/Dummy004/Object013/weel004/Object014
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone005/Bone005/Bone006/Object015
+    m_Weight: 1
+  - m_Path: root/baseBone/connectBone005/Bone005/Object016
+    m_Weight: 1
+  - m_Path: root/baseBone/headBone
+    m_Weight: 0
+  - m_Path: root/baseBone/headBone/head
+    m_Weight: 0
+  - m_Path: root/baseBone/headBone/head/gun001
+    m_Weight: 0
+  - m_Path: root/baseBone/headBone/head/scan
+    m_Weight: 0
+  - m_Path: root/baseBone/headBone/head/scan001
+    m_Weight: 0
+  - m_Path: root/baseBone/headBone/head/sh1
+    m_Weight: 0
+  - m_Path: root/baseBone/headBone/head/sh1/Box007
+    m_Weight: 0
+  - m_Path: root/baseBone/headBone/head/sh004
+    m_Weight: 0
+  - m_Path: root/baseBone/headBone/head/sh004/Box005
+    m_Weight: 0
+  - m_Path: root/baseBone/headBone/head/sh005
+    m_Weight: 0
+  - m_Path: root/baseBone/headBone/head/sh005/Box008
+    m_Weight: 0
+  - m_Path: root/baseBone/headBone/head/sh006
+    m_Weight: 0
+  - m_Path: root/baseBone/headBone/head/sh006/Box009
+    m_Weight: 0
